@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Vakobsmuscheln - Vegetarische Jakobsmuscheln (vegetarisch oder vegan)"
+title:  "Vratlfett - Vegetarischer Heringsalat (vegetarisch oder vegan)"
 author: David
-categories: [ Lifestyle ]
-tags: [ France ]
+categories: [ Aufstrich ]
+tags: [ vegan, vegetarisch ]
 image: assets/images/Vratlfett-Vegetarisches-Veganes-Bratlfett-byDavidSchellander.jpg
-rating: 4.5
 ---
 
 Zutaten 
