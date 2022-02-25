@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vratlfett - Vegetarisches Bratlfett (vegetarisch oder vegan)"
+title:  "Vakobsmuscheln - Vegetarische Jakobsmuscheln (vegetarisch oder vegan)"
 author: David
 categories: [ Lifestyle ]
 tags: [ France ]
