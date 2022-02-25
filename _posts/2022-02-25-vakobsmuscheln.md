@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vakobsmuscheln"
+title:  "Vakobsmuscheln - Vegetarische Jakobsmuscheln (vegetarisch oder vegan)"
 author: David
 categories: [ Travel ]
 image: assets/images/15.jpg
