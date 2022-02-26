@@ -7,6 +7,9 @@ tags: [ vegan, vegetarisch ]
 image: assets/images/Vratlfett-Vegetarisches-Veganes-Bratlfett-byDavidSchellander.jpg
 ---
 
+Dieses Rezept ist eine moderne Interpretation des klassischen Bratlfetts.
+Es kann traditionell, vegetarisch und sogar vegan zubereitet werden. Der Geschmack bleibt dabei nicht nur fast ident – nahezu alle TestesserInnen haben die Veggie-Variante der Nicht-Veggie-Variante oder dem klassischen Bratlfett vorgezogen. Einfach der ideale vegetarische, vegane oder traditionelle Aufstrich.
+
 Zutaten 
 - 5EL Sojasauce
 - 1EL Dunkler Balsamikoessig
