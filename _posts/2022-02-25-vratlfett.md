@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vratlfett - Vegetarischer Heringsalat (vegetarisch oder vegan)"
+title:  "Vratlfett - Vegetarisches Bratlfett (vegetarisch oder vegan)"
 author: david
 categories: [ Aufstrich ]
 tags: [ vegan, vegetarisch ]
