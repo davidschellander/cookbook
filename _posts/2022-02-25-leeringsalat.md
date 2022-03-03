@@ -4,7 +4,7 @@ title:  "Leeringsalat - Vegetarischer Heringsalat"
 author: David
 categories: [ Salat ]
 tags: [ Salat, vegetarisch, herzhaft ]
-image: assets/images/Leeringsalat.jpg
+image: assets/images/Leeringsalat.webp
 ---
 
 ## Zutaten
@@ -45,7 +45,7 @@ image: assets/images/Leeringsalat.jpg
 5. Kartoffel schälen, klein schneiden und auskühlen lassen
 6. Eier hart kochen, schälen, schneiden und auskühlen lassen
 
-### Melanzani-Fisch ((Leeringe)
+### Melanzani-Fisch (Leeringe)
 1. Melanzani schälen und in ca. 1x1x5cm große Stücke schneiden
 2. Noriblatt mit 1/4l heißem Wasser übergießen und mit dem Stabmixer pürieren
 3. Zum Noriblatt-Gemisch 1 TL Salz, 1 EL Essig und etwas Zucker hinzufügen
