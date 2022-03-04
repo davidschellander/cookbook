@@ -2,7 +2,7 @@
 layout: post
 title:  "Leeringsalat - Vegetarischer Heringsalat"
 author: david
-categories: [ Salat ]
+categories: [ Salat, Veggie ]
 tags: [ Salat, vegetarisch, herzhaft ]
 image: assets/images/Leeringsalat.webp
 ---

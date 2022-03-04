@@ -2,7 +2,7 @@
 layout: post
 title:  "Vratlfett - Vegetarisches Bratlfett (vegetarisch oder vegan)"
 author: david
-categories: [ Aufstrich ]
+categories: [ Aufstrich, Veggie ]
 tags: [ vegan, vegetarisch ]
 image: assets/images/Vratlfett-Vegetarisches-Veganes-Bratlfett-byDavidSchellander.jpg
 ---
