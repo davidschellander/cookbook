@@ -7,6 +7,8 @@ tags: [ Salat, vegetarisch, herzhaft ]
 image: assets/images/Leeringsalat.webp
 ---
 
+Dieses Rezept für einen vegetarischen Heringsalat ist einfach und durch die vielen verschiedenen Zutaten trotzdem raffiniert. Der Salat schmeckt am besten, wenn er über Nacht an einem kühlen Ort gut durchgezogen ist.
+
 ## Zutaten
 
 ### Für die Salatbasis
@@ -55,6 +57,3 @@ image: assets/images/Leeringsalat.webp
 
 ### Zusammenfügen
 Alle Zutaten für die Salatbasis und die ausgekühlten Melanzani-Fische zusammenfügen und mit allen Gewürzen abschmecken
-
-### Notizen
-Dieses Rezept für einen vegetarischen Heringsalat ist einfach und durch die vielen verschiedenen Zutaten trotzdem raffiniert. Der Salat schmeckt am besten, wenn er über Nacht an einem kühlen Ort gut durchgezogen ist.
