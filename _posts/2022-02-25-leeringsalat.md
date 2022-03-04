@@ -20,14 +20,14 @@ image: assets/images/Leeringsalat.webp
 - 2 Becher Sauerrahm
 - 3 hartgekochte Eier
 
-### Zutaten für den Melanzani-Fisch ((Leeringe)
+### Zutaten für den Melanzani-Fisch (Leeringe)
 - 1 Stk. Melanzani
 - 1 Stk. Noriblatt
 
 ### Gewürze
-- 1 EL Fischgewürze (Dill, Petersilie, Thymian, Basilikum, Liebstöckel, Senförner)
+- 1 EL Fischgewürze (Dill, Petersilie, Thymian, Basilikum, Liebstöckel, Senfkörner)
 - 1 EL Suppenwürze
-- 1 EL Senf z.B. Grillsenf
+- 1 EL Senf (z.B. Grillsenf)
 - 2 TL Salz
 - Etwas Essig
 - Etwas Pfeffer
@@ -55,6 +55,6 @@ image: assets/images/Leeringsalat.webp
 
 ### Zusammenfügen
 Alle Zutaten für die Salatbasis und die ausgekühlten Melanzani-Fische zusammenfügen und mit allen Gewürzen abschmecken
-Notizen
 
+### Notizen
 Dieses Rezept für einen vegetarischen Heringsalat ist einfach und durch die vielen verschiedenen Zutaten trotzdem raffiniert. Der Salat schmeckt am besten, wenn er über Nacht an einem kühlen Ort gut durchgezogen ist.
