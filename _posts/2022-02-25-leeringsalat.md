@@ -11,11 +11,11 @@ image: assets/images/Leeringsalat.webp
 
 ### Für die Salatbasis
 - 0,5 kg Kartoffeln
-- 1 Stk. Zwiebel
+- 1 Zwiebel
 - 250 g (Tiefkühl-) Gemüse (Mix mit z.B. Erbsen, Karotten, Bohnen, Karfiol)
 - 250 g Linsen (aus der Dose oder noch nicht gekocht)
 - 250 g Weiße Bohnen (klein) (aus der Dose oder noch nicht gekocht)
-- 4 Stk. Essiggurken/Gewürzgurken
+- 4 Essiggurken/Gewürzgurken
 - 1 Apfel
 - 2 Becher Sauerrahm
 - 3 hartgekochte Eier
